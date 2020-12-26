@@ -1,0 +1,3 @@
+get the followers for each of the elements in the public list 
+then check if they are over 500 followers
+do this infinitely
